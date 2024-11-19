@@ -3,7 +3,7 @@
 Place the datasets in this directory following the folder structure outlined below. This structure is required for the training and evaluation scripts to function correctly.
 
 ## Example Folder Structure
-
+```
 - WHU/
     ├── train/
     │   ├── image/
@@ -14,7 +14,7 @@ Place the datasets in this directory following the folder structure outlined bel
     └── test/
         ├── image/
         └── label/
-
+```
 
 ## Folder Descriptions
 

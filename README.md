@@ -91,7 +91,7 @@ albumentations (https://pypi.org/project/albumentations/0.0.10/)
 
 WHU Building Dataset (Aerial imagery dataset): [http://gpcv.whu.edu.cn/data/building_dataset.html](http://gpcv.whu.edu.cn/data/building_dataset.html)
 
-Melbourne Building dataset: [https://arxiv.org/abs/2303.09064v4](https://arxiv.org/abs/2303.09064v4)
+Melbourne Building dataset: [NearMapDataCollector (folder above)](https://github.com/bipulneupane/PGFiT-GradualFinetuning/tree/main/NearMapDataCollector)
 
 Massachusetts Building Dataset: [https://www.cs.toronto.edu/~vmnih/data/](https://www.cs.toronto.edu/~vmnih/data/)
 
@@ -101,7 +101,7 @@ BONAI Dataset: [https://github.com/jwwangchn/BONAI](https://github.com/jwwangchn
 
 ## Credit and Citation
 
-This work is currently under revision in an IEEE journal. The appropriate citation will be provided once the paper is published.
+This work is currently under revision in an academic journal. The appropriate citation will be provided once the paper is published.
 
 ---
 
@@ -115,7 +115,7 @@ Personal email: geomat.bipul@gmail.com
 
 ## Acknowledgements
 
-The authors would like to acknowledge the creators of the datasets. These datasets has been invaluable for advancing research in off-nadir aerial image segmentation. The authors also acknowledge the contributors of the SegmentationModelsPytorch library, TIMM database, and HuggingFace for providing a comprehensive Python package to train CNNs and ViTs.
+The authors would like to acknowledge the creators of the datasets. These datasets have been invaluable for advancing research in off-nadir aerial image segmentation. The authors also acknowledge the contributors of the SegmentationModelsPytorch library, TIMM database, and HuggingFace for providing a comprehensive Python package to train CNNs and ViTs.
 
 ---
 

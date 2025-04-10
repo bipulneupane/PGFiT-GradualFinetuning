@@ -1,6 +1,6 @@
 # Dataset Directory Structure
 
-Place the datasets in this directory following the folder structure outlined below. This structure is required for the training and evaluation scripts to function correctly.
+Place the datasets collected from the web sources or from the NearmapDataCollector in this directory, following the folder structure outlined below. This structure is required for the training and evaluation scripts to function correctly.
 
 ## Example Folder Structure
 ```
